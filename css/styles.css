@@ -163,7 +163,7 @@ body {
 }
 
 .hero {
-    background-image: linear-gradient(rgba(46, 47, 66, 1), rgba(46, 47, 66, 1)), url(../images/people-office-1.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/people-office.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: fill;
